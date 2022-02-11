@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+    color: #000;
+    background-color: #fff;
+}
+.conteiner {
+    max-width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+/* .block{
+    background-color: red;
+    /* margin-top: 10%; */
+    /* padding: 40px; */
+/* } */
+/* .cord{ */
+    /* background-color: blue;
+    padding: 40px; */
+    /* padding-right: 45%; */
+    /* padding-left: 40px; */
+    /* padding: ; */
+/* }
+.box{
+    text-decoration: none;
+    background-color: #ccc;
+    padding: 5px 5px;
+} */ 
